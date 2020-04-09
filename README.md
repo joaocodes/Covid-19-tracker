@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 Credits go to adrianhajdin his project can be found here: https://github.com/adrianhajdin/project_corona_tracker
+
 Youtube video tutorial: https://www.youtube.com/watch?v=khJlrj3Y6Ls
+
 Third party API used: https://covid19.mathdro.id/api 
 
 ## Available Scripts
