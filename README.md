@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Link to the live Github Page of the project: https://joaocodes.github.io/Covid-19-tracker/
 
 Credits go to adrianhajdin his project can be found here: https://github.com/adrianhajdin/project_corona_tracker
 
